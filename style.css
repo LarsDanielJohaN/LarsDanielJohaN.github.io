@@ -1,0 +1,78 @@
+/* Typography */
+body {
+  font-family: Georgia, serif;
+  font-size: 18px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  max-width: 750px;
+  margin: 2em auto;
+  padding: 0 1em;
+}
+
+h1, h2, h3 {
+  font-family: 'Times New Roman', Times, serif;
+  color: #1a3d2f;
+  margin-top: 1.5em;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+p {
+  margin: 1em 0;
+}
+
+a {
+  color: #004d40;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Navigation */
+nav {
+  margin-bottom: 2em;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.5em;
+}
+
+nav a {
+  margin-right: 20px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+/* Lists */
+ul {
+  padding-left: 1.2em;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+/* Code blocks or citations */
+code {
+  font-family: Consolas, monospace;
+  background-color: #f5f5f5;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* Footer */
+footer {
+  font-size: 0.8em;
+  text-align: center;
+  color: #777;
+  margin-top: 3em;
+  padding-top: 2em;
+  border-top: 1px solid #ddd;
+}
