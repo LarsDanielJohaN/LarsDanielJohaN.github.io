@@ -18,4 +18,4 @@ I am always on the look for new applied problems to tackle. When I do, in conjun
 3. **Make modelling decisions:** Based on our data situation and our questions, which model allows us to mine the insights we need? What assumptions need to be made? What are the risks for the reliability of the analysis? 
 4. **Generate insights:** Having trained the necessary models, what relationships or dynamics do they exhibit about the data? What do they tell about the state of the original mission? What actions are required? 
 
-<img src='/images/500x300.png'>
+<img src='/images/ModellingProcess.png'>
